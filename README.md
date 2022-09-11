@@ -3,6 +3,8 @@ An attempt at working around Avro's clunky Phoenetic Typing
 
 This is a simple dictionary file that uses Avro Keyboard's autocorrect functionality to fix/"unkamlafy" (kaman acan) alot of common words with proper replacements.
 
+# NOTE : This is still unfinished and suggestions/help is needed
+
 # Installation
 
 1. Click the "Gear" icon on Avro's topbar (Right-click > "Tools" incase of system-tray icon)
